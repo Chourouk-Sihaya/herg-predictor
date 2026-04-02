@@ -5,7 +5,7 @@ numpy<2.0
 pandas
 scikit-learn==1.6.1
 xgboost
-mordred2
+mordred
 rdkit
 imbalanced-learn
 gunicorn
